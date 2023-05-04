@@ -1,0 +1,18 @@
+.navbar{
+    background-color:rgba(69, 203, 32, 0.769);
+    text-align: center;
+    
+}
+.navbar h1{
+    color: white;
+}
+.menu a{
+    color: rgb(227, 236, 239);
+    margin-right: 5px;
+}
+.intro h2{
+ text-align: center;
+}
+.features h2{
+     text-align: center;
+}
